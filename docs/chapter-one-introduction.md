@@ -115,7 +115,7 @@ This publication serves individuals associated with the design, development, imp
 
 For a comprehensive list and description of roles and responsibilities associated with the RMF, see Appendix D.
 
-## 1.4 ORGANIZATIONOFTHISPUBLICATION 
+## 1.4 ORGANIZATION OF THIS PUBLICATION 
 
 The remainder of this special publication is organized as follows:
 
