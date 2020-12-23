@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AUTHORIZATION BOUNDARY, TASK P-11 
+title: • AUTHORIZATION BOUNDARY, TASK P-11 
 parent: PREPARE TASKS—SYSTEM LEVEL 
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31011

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RISK ASSESSMENT—ORGANIZATION, TASK P-3 
+title: • RISK ASSESSMENT—ORGANIZATION, TASK P-3 
 parent: 3.1 PREPARE
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31003

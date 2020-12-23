@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RISK MANAGEMENT STRATEGY, TASK P-2 
+title: • RISK MANAGEMENT STRATEGY, TASK P-2 
 parent: 3.1 PREPARE
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31002

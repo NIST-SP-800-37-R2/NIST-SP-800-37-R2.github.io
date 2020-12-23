@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SYSTEM REGISTRATION, TASK P-18 
+title: • SYSTEM REGISTRATION, TASK P-18 
 parent: PREPARE TASKS—SYSTEM LEVEL 
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31018

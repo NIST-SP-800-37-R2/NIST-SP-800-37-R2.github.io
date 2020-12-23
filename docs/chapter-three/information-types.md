@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INFORMATION TYPES, TASK P-12 
+title: • INFORMATION TYPES, TASK P-12 
 parent: PREPARE TASKS—SYSTEM LEVEL 
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31012

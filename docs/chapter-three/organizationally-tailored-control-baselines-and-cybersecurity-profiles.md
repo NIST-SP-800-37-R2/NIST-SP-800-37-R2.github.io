@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ORGANIZATIONALLY-TAILORED CONTROL ..., TASK P-4 
+title: • ORGANIZATIONALLY-TAILORED CONTROL ..., TASK P-4 
 parent: 3.1 PREPARE
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31004

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ENTERPRISE ARCHITECTURE, TASK P-16 
+title: • ENTERPRISE ARCHITECTURE, TASK P-16 
 parent: PREPARE TASKS—SYSTEM LEVEL 
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31016

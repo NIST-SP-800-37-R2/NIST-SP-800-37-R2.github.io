@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMPACT-LEVEL PRIORITIZATION (Optional) 61, TASK P-6 
+title: • IMPACT-LEVEL PRIORITIZATION (Optional) 61, TASK P-6 
 parent: 3.1 PREPARE
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31006

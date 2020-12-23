@@ -1,6 +1,6 @@
 ---
 layout: default
-title: INFORMATION LIFE CYCLE, TASK P-13 
+title: • INFORMATION LIFE CYCLE, TASK P-13 
 parent: PREPARE TASKS—SYSTEM LEVEL 
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31013

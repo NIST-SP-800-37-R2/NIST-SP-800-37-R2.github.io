@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MISSION OR BUSINESS FOCUS, TASK P-8 
+title: • MISSION OR BUSINESS FOCUS, TASK P-8 
 parent: PREPARE TASKS—SYSTEM LEVEL 
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31008

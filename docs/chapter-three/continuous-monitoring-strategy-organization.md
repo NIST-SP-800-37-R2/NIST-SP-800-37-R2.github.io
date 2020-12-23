@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CONTINUOUS MONITORING STRATEGY ..., TASK P-7 
+title: • CONTINUOUS MONITORING STRATEGY ..., TASK P-7 
 parent: 3.1 PREPARE
 grand_parent: CHAPTER THREE, THE PROCESS
 nav_order: 31007
