@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 3.1 PREPARE  
-parent: CHAPTER THREE, THE PROCESS 
+parent: CHAPTER THREE, THE PROCESS
+has_children: true 
 nav_order: 310
 ---
 
@@ -156,4 +157,7 @@ CONTINUOUS MONITORING STRATEGY— ORGANIZATION
 {: .fs-2}
 <sup>53</sup> For ease of use, the preparatory activities are grouped into organization-level preparation and information system- level preparation.
 {: .fs-2}
+
 ***
+
+

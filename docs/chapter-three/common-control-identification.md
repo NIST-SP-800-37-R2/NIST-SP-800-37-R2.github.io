@@ -1,0 +1,31 @@
+---
+layout: default
+title: COMMON CONTROL IDENTIFICATION, TASK P-5 
+parent: 3.1 PREPARE
+grand_parent: CHAPTER THREE, THE PROCESS
+nav_order: 31005
+---
+
+### COMMON CONTROL IDENTIFICATION 
+TASK P-5
+{: .fs-4 .label}
+Identify, document, and publish organization-wide common controls that are available for inheritance by organizational systems.  
+**Potential Inputs:** Documented security and privacy requirements; existing common control providers and associated security and privacy plans; information security and privacy program plans; organization- and system-level security and privacy risk assessment results.  
+**Expected Outputs:** List of common control providers and common controls available for inheritance; security and privacy plans (or equivalent documents) providing a description of the common control implementation (including inputs, expected behavior, and expected outputs).  
+**Primary Responsibility:** Senior Agency Information Security Officer; Senior Agency Official for Privacy.  
+**Supporting Roles:** Mission or Business Owner; Senior Accountable Official for Risk Management or Risk Executive (Function); Chief Information Officer; Authorizing Official or Authorizing Official Designated Representative; Common Control Provider; System Owner.  
+**Discussion:** Common controls are controls that can be inherited by one or more information systems.<sup>60</sup> Common controls can include controls from any [SP 800-53] control family, for example, physical and environmental protection controls, system boundary and monitoring controls, personnel security controls, policies and procedures, acquisition controls, account and identity management controls, audit log and accountability controls, or complaint management controls for receiving privacy inquiries from the public. Organizations identify and select the set of common controls and allocate those controls to the organizational entities designated as common control providers. Common controls may differ based upon a variety of factors, such as hosting location, system architecture, and the structure of the organization. The organization-wide list of common controls takes these factors into account. Common controls can also be identified at different levels of the organization (e.g., corporate, department, or agency level; bureau or subcomponent level; or individual program level). Organizations may establish one or more lists of common controls that can be inherited by information systems. A requirement may not be fully met by a common control. In such cases, the control is considered a hybrid control and is noted as such by the organization, including specifying which parts of the control requirement are provided for inheritance by the common control and which parts are to be provided at the system level. 
+
+When there are multiple sources of common controls, organizations specify the common control provider (i.e., who is providing the controls and through what venue, for example, shared services, specific systems, or within a specific type of architecture) and which systems or types of systems can inherit the controls. Common control listings are communicated to system owners, so they are aware of the security and privacy capabilities that are available from the organization through inheritance. System owners are not required to assess common controls that are inherited by their systems or document common control implementation details; that is the responsibility of the common control providers. Likewise, common control providers are not required to have visibility into the system-level details of those systems that are inheriting the common controls they are providing.  
+
+Risk assessment results can be used when identifying common controls to determine if the controls available for inheritance satisfy the security and privacy requirements for organizational systems and the environments in which those systems operate (including the identification of potential single points of failure). When the common controls provided by the organization are determined to be insufficient for the information systems inheriting those controls, system owners can supplement the common controls with system-specific or hybrid controls to achieve the required protection for their systems or accept greater risk with the acknowledgement and approval of the organization.  
+
+Common control providers execute the RMF steps to implement, assess, and monitor the controls designated as common controls. Common control providers may also be system owners when the common controls are resident within an information system. Organizations select senior officials or executives to serve as authorizing officials for common controls. The senior agency official for privacy is responsible for designating common privacy controls and for documenting them in the organization’s privacy program plan. Authorizing officials are responsible for accepting security and privacy risk resulting from the use of common controls inherited by organizational systems. 
+ 
+Common control providers are responsible for documenting common controls in security and privacy plans (or equivalent documents prescribed by the organization); ensuring that the common controls are implemented and assessed for effectiveness by qualified assessors and that assessment findings are documented in assessment reports; producing a plan of action and milestones for common controls determined to have unacceptable deficiencies and targeted for remediation; receiving authorization for the common controls from the designated authorizing official; and monitoring control effectiveness on an ongoing basis. Plans, assessment reports, and plans of action and milestones for common controls (or a summary of such information) are made available to system owners and can be used by authorizing officials to guide and inform authorization decisions for systems inheriting common controls. For information about the authorization of common controls, see Task R-4 and Appendix F.  
+
+**References:** [SP 800-53].
+
+***
+<sup>60</sup> Common controls are authorized by designated authorizing officials before the controls are made available for inheritance by organizational systems. See Appendix F for a description of the different types of authorizations.
+*** 
