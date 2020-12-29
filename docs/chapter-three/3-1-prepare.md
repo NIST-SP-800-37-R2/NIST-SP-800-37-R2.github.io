@@ -6,7 +6,7 @@ has_children: true
 nav_order: 310
 ---
 
-## CHAPTER THREE, THE PROCESS<sup>52</sup>
+## PREPARE<sup>52</sup>
 
 <div style="background-color:lightblue; padding:20px" markdown="1">
 <h3 style="text-align:center">Purpose</h3>
