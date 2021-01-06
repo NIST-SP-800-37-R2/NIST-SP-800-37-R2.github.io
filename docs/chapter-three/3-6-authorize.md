@@ -13,7 +13,7 @@ nav_order: 360
 The purpose of the _Authorize_ step is to provide organizational accountability by requiring a senior management official to determine if the security and privacy risk (including supply chain risk) to organizational operations and assets, individuals, other organizations, or the Nation based on the operation of a system or the use of common controls, is acceptable.
 </div>
 
-### ASSESS TASKS 
+### AUTHORIZE TASKS 
 Table 7 provides a summary of tasks and expected outcomes for the RMF Authorize step. Applicable Cybersecurity Framework constructs are also provided.
 
 <h4 style='text-align:center'>TABLE 7: AUTHORIZE TASKS AND OUTCOMES</h4>
