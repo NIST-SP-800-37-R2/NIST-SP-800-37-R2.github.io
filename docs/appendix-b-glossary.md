@@ -331,5 +331,348 @@ Individual with assigned responsibility for maintaining the appropriate operatio
 **information system security plan** [OMB A-130]  
 A formal document that provides an overview of the security requirements for an information system and describes the security controls in place or planned for meeting those requirements.  
 
+**information technology** [OMB A-130]  
+Any services, equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency. For purposes of this definition, such services or equipment if used by the agency directly or is used by a contractor under a contract with the agency that requires its use; or to a significant extent, its use in the performance of a service or the furnishing of a product. Information technology includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including cloud computing and help-desk services or other professional services which support any point of the life cycle of the equipment or service), and related resources. Information technology does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use.  
+
+**information technology product** 
+See _system component_.
+
+**information type** [FIPS 199]  
+A specific category of information (e.g., privacy, medical,
+proprietary, financial, investigative, contractor-sensitive, security management) defined by an organization or in some instances, by a specific law, executive order, directive, policy, or regulation.  
+**interface** [CNSSI 4009]  
+Common boundary between independent systems or modules where interactions take place.  
+
+**integrity** [44 USC 3552]
+Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.  
+
+**joint authorization**  
+Authorization involving multiple authorizing officials.  
+
+**low-impact system** [FIPS 200]  
+A system in which all three security objectives (i.e., confidentiality, integrity, and availability) are assigned a FIPS Publication 199 potential impact value of low.  
+
+**media** [FIPS 200]  
+Physical devices or writing surfaces including, but not limited to, magnetic tapes, optical disks, magnetic disks, Large-Scale Integration memory chips, and printouts (but excluding display media) onto which information is recorded, stored, or printed within a system.  
+
+**moderate-impact system** [FIPS 200]  
+A system in which at least one security objective (i.e., confidentiality, integrity, or availability) is assigned a FIPS Publication 199 potential impact value of moderate and no security objective is assigned a potential impact value of high.  
+
+**national security system** [44 USC 3552]  
+Any system (including any telecommunications system) used or operated by an agency or by a contractor of an agency, or other organization on behalf of an agency—(i) the function, operation, or use of which involves intelligence activities; involves cryptologic activities related to national security; involves command and control of military forces; involves equipment that is an integral part of a weapon or weapons system; or is critical to the direct fulfillment of military or intelligence missions (excluding a system that is to be used for routine administrative and business applications, for example, payroll, finance, logistics, and personnel management applications); or (ii) is protected at all times by procedures established for information that have been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept classified in the interest of national defense or foreign policy.  
+
+**network**  
+A system implemented with a collection of interconnected components. Such components may include routers, hubs, cabling, telecommunications controllers, key distribution centers, and technical control devices.  
+
+**network access**  
+Access to a system by a user (or a process acting on behalf of a user) communicating through a network (e.g., a local area network, a wide area network, and Internet).  
+
+**operational technology**  
+Programmable systems or devices that interact with the physical environment (or manage devices that interact with the physical environment). These systems/devices detect or cause a direct change through the monitoring and/or control of devices, processes, and events. Examples include industrial control systems, building management systems, fire control systems, and physical access control mechanisms.  
+
+**operations technology**  
+See _operational technology_.
+
+**organization** [FIPS 200, Adapted]  
+An entity of any size, complexity, or positioning within an organizational structure (e.g., federal agencies, private enterprises, academic institutions, state, local, or tribal governments, or as appropriate, any of their operational elements).  
+
+**organizationally-tailored control baseline**  
+A control baseline tailored for a defined notional (type of) information system using overlays and/or system-specific control tailoring, and intended for use in selecting controls for multiple systems within one or more organizations.  
+
+**organization-defined control parameter**  
+The variable part of a control or control enhancement that can be instantiated by an organization during the tailoring process by either assigning an organization-defined value or selecting a value from a pre-defined list provided as part of the control or control enhancement.  
+
+**overlay** [OMB A-130]  
+A specification of security or privacy controls, control enhancements, supplemental guidance, and other supporting information employed during the tailoring process, that is intended to complement (and further refine) security control baselines. The overlay specification may be more stringent or less stringent than the original security control baseline specification and can be applied to multiple information systems.  
+
+**personally identifiable information** [OMB A-130]  
+Information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other information that is linked or linkable to a specific individual.  
+
+**plan of action and milestones**  
+A document that identifies tasks needing to be accomplished. It details resources required to accomplish the elements of the plan, any milestones in meeting the tasks, and scheduled completion dates for the milestones.  
+
+**potential impact** [FIPS 199]  
+The loss of confidentiality, integrity, or availability could be expected to have a limited adverse effect (FIPS Publication 199 low); a serious adverse effect (FIPS Publication 199 moderate); or a severe or catastrophic adverse effect (FIPS Publication 199 high) on organizational operations, organizational assets, or individuals.  
+
+**privacy architect**  
+Individual, group, or organization responsible for ensuring that the system privacy requirements necessary to protect individuals’ privacy are adequately addressed in all aspects of enterprise architecture including reference models, segment and solution architectures, and information systems processing PII.
+
+**privacy architecture**  
+An embedded, integral part of the enterprise architecture that describes the structure and behavior for an enterprise’s privacy protection processes, technical measures, personnel and organizational sub-units, showing their alignment with the enterprise’s mission and strategic plans.  
+
+**privacy control** [OMB A-130]
+The administrative, technical, and physical safeguards employed within an agency to ensure compliance with applicable privacy requirements and manage privacy risks.  
+
+_Note_: Controls can be selected to achieve multiple objectives; those controls that are selected to achieve both security and privacy objectives require a degree of collaboration between the organization’s information security program and privacy program.
+{: .fs-2}
+
+**privacy control assessment** [OMB A-130]  
+The assessment of privacy controls to determine whether the controls are implemented correctly, operating as intended, and sufficient to ensure compliance with applicable privacy requirements and manage privacy risks. A privacy control assessment is both an assessment and a formal document detailing the process and the outcome of the assessment.  
+
+**privacy control baseline**  
+A collection of controls specifically assembled or brought together by a group, organization, or community of interest to address the privacy protection needs of individuals.
+
+**privacy impact assessment** [OMB A-130]  
+An analysis of how information is handled to ensure handling conforms to applicable legal, regulatory, and policy requirements regarding privacy; to determine the risks and effects of creating, collecting, using, processing, storing, maintaining, disseminating, disclosing, and disposing of information in identifiable form in an electronic information system; and to examine and evaluate protections and alternate processes for handling information to mitigate potential privacy concerns. A privacy impact assessment is both an analysis and a formal document detailing the process and the outcome of the analysis.  
+
+**privacy plan** [OMB A-130]  
+A formal document that details the privacy controls selected for an information system or environment of operation that are in place or planned for meeting applicable privacy requirements and managing privacy risks, details how the controls have been implemented, and describes the methodologies and metrics that will be used to assess the controls.  
+
+**privacy posture**  
+The privacy posture represents the status of the information systems and information resources (e.g., personnel, equipment, funds, and information technology) within an organization based on information assurance resources (e.g., people, hardware, software, policies, procedures) and the capabilities in place to comply with applicable privacy requirements and manage privacy risks and to react as the situation changes.  
+
+**privacy program plan** [OMB A-130]  
+A formal document that provides an overview of an agency’s privacy program, including a description of the structure of the privacy program, the resources dedicated to the privacy program, the role of the Senior Agency Official for Privacy and other privacy officials and staff, the strategic goals and objectives of the privacy program, and the program management controls and common controls in place or planned for meeting applicable privacy requirements and managing privacy risks.  
+
+**privacy requirement**  
+A requirement that applies to an information system or an organization that is derived from applicable laws, executive orders, directives, policies, standards, regulations, procedures, and/or mission/business needs with respect to privacy.  
+
+_Note_: The term privacy requirement can be used in a variety of contexts from high-level policy activities to low-level implementation activities in system development and engineering disciplines.
+{: .fs-2}
+
+**privacy information**  
+Information that describes the privacy posture of an information system or organization.
+
+**protect (CSF function)** [NIST CSF]  
+Develop and implement the appropriate safeguards to ensure delivery of critical infrastructure services.
+
+**provenance**  
+The chronology of the origin, development, ownership, location, and changes to a system or system component and associated data. It may also include personnel and processes used to interact with or make modifications to the system, component, or associated data.  
+
+**reciprocity**  
+Agreement among participating organizations to accept each other’s security assessments to reuse system resources and/or to accept each other’s assessed security posture to share information.  
+
+**records** [44 USC 3301]  
+All recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them.  
+
+**recover (CSF function)** [NIST CSF]  
+Develop and implement the appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity event.  
+
+**resilience** [CNSSI 4009]  
+The ability to prepare for and adapt to changing conditions and withstand and recover rapidly from disruptions. Resilience includes the ability to withstand and recover from deliberate attacks, accidents, or naturally occurring threats or incidents.  
+
+**respond (CSF function)** [NIST CSF]  
+Develop and implement the appropriate activities to take action regarding a detected cybersecurity event.  
+
+**risk** [OMB A-130]  
+A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically is a function of: (i) the adverse impact, or magnitude of harm, that would arise if the circumstance or event occurs; and (ii) the likelihood of occurrence.  
+
+**risk assessment** [SP 800-30]  
+The process of identifying risks to organizational operations (including mission, functions, image, reputation), organizational assets, individuals, other organizations, and the Nation, resulting from the operation of a system.  
+
+**risk executive (function)** [SP 800-39]  
+An individual or group within an organization, led by the senior accountable official for risk management, that helps to ensure that security risk considerations for individual systems, to include the authorization decisions for those systems, are viewed from an organization-wide perspective with regard to the overall strategic goals and objectives of the organization in carrying out its missions and business functions; and managing risk from individual systems is consistent across the organization, reflects organizational risk tolerance, and is considered along with other organizational risks affecting mission/business success.  
+
+**risk management** [OMB A-130]  
+The program and supporting processes to manage risk to agency operations (including mission, functions, image, reputation), agency assets, individuals, other organizations, and the Nation, and includes: establishing the context for risk-related activities; assessing risk; responding to risk once determined; and monitoring risk over time.  
+
+**risk mitigation** [CNSSI 4009]  
+Prioritizing, evaluating, and implementing the appropriate risk- reducing controls/countermeasures recommended from the risk management process.  
+
+**risk response** [OMB A-130]  
+Accepting, avoiding, mitigating, sharing, or transferring risk to agency operations, agency assets, individuals, other organizations, or the Nation.  
+
+**sanitization** [SP 800-88]  
+A process to render access to target data on the media infeasible for a given level of effort. Clear, purge, and destroy are actions that can be taken to sanitize media.  
+
+**scoping considerations**  
+A part of tailoring guidance providing organizations with specific considerations on the applicability and implementation of controls in the control baselines. Considerations include policy/regulatory, technology, physical infrastructure, system element allocation, operational/environmental, public access, scalability, common control, and security objective.  
+
+**security** [CNSSI 4009]  
+A condition that results from the establishment and maintenance of protective measures that enable an organization to perform its mission or critical functions despite risks posed by threats to its use of systems. Protective measures may involve a combination of deterrence, avoidance, prevention, detection, recovery, and correction that should form part of the organization’s risk management approach.  
+
+**security architect**  
+Individual, group, or organization responsible for ensuring that the information security requirements necessary to protect the organization’s core missions and business processes are adequately addressed in all aspects of enterprise architecture including reference models, segment and solution architectures, and the resulting information systems supporting those missions and business processes.  
+
+**security architecture** [SP 800-39]  
+An embedded, integral part of the enterprise architecture that describes the structure and behavior for an enterprise’s security processes, information security systems, personnel and organizational sub-units, showing their alignment with the enterprise’s mission and strategic plans. See _information security architecture_.  
+
+[SP 800-160 v1]  
+A set of physical and logical security-relevant representations (i.e., views) of system architecture that conveys information about how the system is partitioned into security domains and makes use of security-relevant elements to enforce security policies within and between security domains based on how data and information must be protected.   
+
+_Note_:The security architecture reflects security domains, the placement of security-relevant elements within the security domains, the interconnections and trust relationships between the security-relevant elements, and the behavior and interactions between the security-relevant elements. The security architecture, similar to the system architecture, may be expressed at different levels of abstraction and with different scopes.  
+{: .fs-2}
+
+**security categorization**  
+The process of determining the security category for information or a system. Security categorization methodologies are described in CNSS Instruction 1253 for national security systems and in
+FIPS Publication 199 for other than national security systems. See _security category_.
+
+**security category** [OMB A-130]  
+The characterization of information or an information system based on an assessment of the potential impact that a loss of confidentiality, integrity, or availability of such information or information system would have on agency operations, agency assets, individuals, other organizations, and the Nation.  
+
+**security control** [OMB A-130]  
+The safeguards or countermeasures prescribed for an information system or an organization to protect the confidentiality, integrity, and availability of the system and its information.  
+
+**security control assessment** [OMB A-130]  
+The testing or evaluation of security controls to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security requirements for an information system or organization.  
+
+**security control baseline** [OMB A-130]  
+The set of minimum security controls defined for a low-impact, moderate-impact, or high-impact information system. See also _control baseline_.  
+
+**security objective** [FIPS 199]  
+Confidentiality, integrity, or availability.  
+
+**security plan**  
+See _information system security plan_.
+
+**security posture** [CNSSI 4009]  
+The security status of an enterprise’s networks, information, and
+systems based on information assurance resources (e.g., people, hardware, software, policies) and capabilities in place to manage the defense of the enterprise and to react as the situation changes. Synonymous with _security status_.  
+
+**security requirement** [FIPS 200, Adapted]  
+A requirement levied on an information system or an organization that is derived from applicable laws, executive orders, directives, policies, standards, instructions, regulations, procedures, and/or mission/business needs to ensure the confidentiality, integrity, and availability of information that is being processed, stored, or transmitted.  
+
+_Note_: Security requirements can be used in a variety of contexts from high- level policy activities to low-level implementation activities in system development and engineering disciplines.
+{: .fs-2}
+
+**security information**  
+Information within the system that can potentially impact the operation of security functions or the provision of security services in a manner that could result in failure to enforce the system security policy or maintain isolation of code and data.  
+
+**selection statement**  
+A control parameter that allows an organization to select a value from a list of pre-defined values provided as part of the control or control enhancement (e.g., selecting to either restrict an action or prohibit an action).  
+See _assignment statement_ and _organization-defined control parameter_.  
+
+**senior agency information security officer** [44 USC 3544]  
+Official responsible for carrying out the Chief Information Officer responsibilities under FISMA and serving as the Chief Information Officer’s primary liaison to the agency’s authorizing officials, information system owners, and information system security officers.  
+
+**senior agency official for privacy** [OMB A-130]  
+The senior official, designated by the head of each agency, who has agency-wide responsibility for privacy, including implementation of privacy protections; compliance with Federal laws, regulations, and policies relating to privacy; management of privacy risks at the agency; and a central policy-making role in the agency’s development and evaluation of legislative, regulatory, and other policy proposals.  
+
+**senior accountable official for risk management** [OMB M-17-25]  
+The senior official, designated by the head of each agency, who has vision into all areas of the organization and is responsible for alignment of information security management processes with strategic, operational, and budgetary planning processes.  
+
+**software** [CNSSI 4009]  
+Computer programs and associated data that may be dynamically written or modified during execution. 
+
+ 
+**specification** [IEEE 610.12]  
+A document that specifies, in a complete, precise, verifiable manner, the requirements, design, behavior, or other characteristics of a system or component and often the procedures for determining whether these provisions have been satisfied. See _specification requirement_.  
+
+**specification requirement**  
+A type of requirement that provides a specification for a specific capability that implements all or part of a control and that may be assessed (i.e., as part of the verification, validation, testing, and evaluation processes).  
+
+**statement of work requirement**  
+A type of requirement that represents an action that is performed operationally or during system development.  
+
+**subsystem**  
+A major subdivision or element of an information system consisting of information, information technology, and personnel that performs one or more specific functions.  
+
+**supply chain** [OMB A-130]  
+Linked set of resources and processes between multiple tiers of developers that begins with the sourcing of products and services and extends through the design, development, manufacturing, processing, handling, and delivery of products and services to the acquirer.  
+
+**supply chain risk** [OMB A-130]  
+Risks that arise from the loss of confidentiality, integrity, or availability of information or information systems and reflect the potential adverse impacts to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation.  
+
+**supply chain risk management** [OMB A-130]  
+The process of identifying, assessing, and mitigating the risks associated with the global and distributed nature of information and communications technology product and service supply chains.  
+
+**system** [CNSSI 4009]  
+Any organized assembly of resources and procedures united and regulated by interaction or interdependence to accomplish a set of specific functions. See information system.  
+
+_Note_: Systems also include specialized systems such as industrial/process controls systems, telephone switching and private branch exchange (PBX) systems, and environmental control systems.  
+{: .fs-2}
+
+[ISO 15288]  
+Combination of interacting elements organized to achieve one or more stated purposes.  
+
+_Note 1_: There are many types of systems. Examples include: general and special-purpose information systems; command, control, and communication systems; crypto modules; central processing unit and graphics processor boards; industrial/process control systems; flight control systems; weapons, targeting, and fire control systems; medical devices and treatment systems; financial, banking, and merchandising transaction systems; and social networking systems.  
+{: .fs-2}
+_Note 2_: The interacting elements in the definition of system include hardware, software, data, humans, processes, facilities, materials, and naturally occurring physical entities. 
+{: .fs-2} 
+_Note 3_: System of systems is included in the definition of system.
+{: .fs-2}
+
+**system boundary**  
+See _authorization boundary_.
+
+**system component** [SP 800-128]  
+A discrete identifiable information technology asset that represents a building block of a system and may include hardware, software, and firmware.  
+
+**system element** [ISO 15288]  
+Member of a set of elements that constitute a system.  
+
+_Note 1_: A system element can be a discrete component, product, service, subsystem, system, infrastructure, or enterprise.
+{: .fs-2}
+_Note 2_: Each element of the system is implemented to fulfill specified requirements.
+{: .fs-2}
+_Note 3_: The recursive nature of the term allows the term system to apply equally when referring to a discrete component or to a large, complex, geographically distributed system-of-systems.
+{: .fs-2}
+_Note 4_: System elements are implemented by: hardware, software, and firmware that perform operations on data/information; physical structures, devices, and components in the environment of operation; and the people, processes, and procedures for operating, sustaining, and supporting the system elements.
+{: .fs-2}
+_Note 5_: System elements and information resources (as defined at 44 U.S.C. Sec. 3502 and in this document) are interchangeable terms as used in this document.
+{: .fs-2}
+
+**system development life cycle**  
+The scope of activities associated with a system, encompassing the system’s initiation, development and acquisition, implementation, operation and maintenance, and ultimately its disposal that instigates another system initiation.  
+
+**system privacy officer**  
+Individual with assigned responsibility for maintaining the appropriate operational privacy posture for a system or program.  
+
+**systems privacy engineer**  
+Individual assigned responsibility for conducting systems privacy engineering activities.  
+
+**systems privacy engineering**  
+Process that captures and refines privacy requirements and ensures their integration into information technology component products and information systems through purposeful privacy design or configuration.  
+
+**systems security engineer**  
+Individual assigned responsibility for conducting systems security engineering activities.  
+
+**systems security engineering**  
+Process that captures and refines security requirements and ensures their integration into information technology component products and information systems through purposeful security design or configuration.  
+
+**system security officer**  
+Individual with assigned responsibility for maintaining the appropriate operational security posture for an information system or program.  
+
+**system security plan**  
+See _information system security plan_.
+
+**system-related privacy risk** [OMB A-130]  
+Risk to an individual or individuals associated with the agency’s creation, collection, use, processing, storage, maintenance, dissemination, disclosure, and disposal of their PII. See _risk_.  
+
+**system-related security risk** [SP 800-30]  
+Risk that arises through the loss of confidentiality, integrity, or availability of information or systems and that considers impacts to the organization (including assets, mission, functions, image, or reputation), individuals, other organizations, and the Nation. See _risk_.
+
+**system-specific control** [OMB A-130]  
+A security or privacy control for an information system that is implemented at the system level and is not inherited by any other information system.  
+
+**tailored control baseline**  
+A set of controls resulting from the application of tailoring guidance to a control baseline. See _tailoring_.  
+
+**tailoring** [OMB A-130]  
+The process by which security control baselines are modified by identifying and designating common controls; applying scoping considerations; selecting compensating controls; assigning specific values to agency-defined control parameters; supplementing baselines with additional controls or control enhancements; and providing additional specification information for control implementation. The tailoring process may also be applied to privacy controls.  
+
+**threat** [SP 800-30]  
+Any circumstance or event with the potential to adversely impact organizational operations, organizational assets, individuals, other organizations, or the Nation through a system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service.  
+
+**threat source** [FIPS 200]  
+The intent and method targeted at the intentional exploitation of a vulnerability or a situation and method that may accidentally trigger a vulnerability. See _threat agent_.  
+
+**trustworthiness** [CNSSI 4009]  
+The attribute of a person or enterprise that provides confidence to others of the qualifications, capabilities, and reliability of that entity to perform specific tasks and fulfill assigned responsibilities.  
+
+**trustworthiness** (system)  
+The degree to which an information system (including the information technology components that are used to build the system) can be expected to preserve the confidentiality, integrity, and availability of the information being processed, stored, or transmitted by the system across the full range of threats and individuals’ privacy.  
+
+**trustworthy information system** [OMB A-130]  
+An information system that is believed to be capable of operating within defined levels of risk despite the environmental disruptions, human errors, structural failures, and purposeful attacks that are expected to occur in its environment of operation.  
+
+**system user**  
+Individual, or (system) process acting on behalf of an individual, authorized to access a system.  
+
+**vulnerability** [CNSSI 4009]  
+Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.  
+
+_Note_: The term _weakness_ is synonymous for _deficiency_. Weakness may result in security and/or privacy risks.
+{: .fs-2}
+
+**vulnerability assessment** [CNSSI 4009]  
+Systematic examination of an information system or product to determine the adequacy of security measures, identify security deficiencies, provide data from which to predict the effectiveness of proposed security measures, and confirm the adequacy of such measures after implementation.  
+
+
+
+
+ 
+
+
 
 
