@@ -42,11 +42,6 @@ nav_order: 8000020
     </td>
   </tr>
   <tr>
-    <td colspan="6" style="background-color:#9cb5db;text-align: center">
-<span style="color:#000000">Organization Level</span>
-    </td>
-  </tr>
-  <tr>
 <td colspan="2" style="background-color:#bbcfed;vertical-align:top;" markdown="1">
 TASK C-1    
 **System Description**  
