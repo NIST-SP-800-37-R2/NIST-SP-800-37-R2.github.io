@@ -6,7 +6,7 @@ has_children: true
 nav_order: 320
 ---
 
-## CATEGORIZE<sup>74</sup>
+## 3.2 CATEGORIZE<sup>74</sup>
 
 <div style="background-color:lightblue; padding:20px" markdown="1">
 <h3 style="text-align:center">Purpose</h3>
